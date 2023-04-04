@@ -1,9 +1,5 @@
-# [flaskBlog📜](https://dogukanurker.com/flaskblog)
-
 Simple blog app built with Flask.
 <br/>
-[Contact](mailto:dogukanurker@icloud.com)<br/>
-[Dogukan Urker](https://dogukanurker.com)
 
 |                 Desktop                  |                 Mobile                  |
 | :--------------------------------------: | :-------------------------------------: |
